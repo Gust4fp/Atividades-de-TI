@@ -1,0 +1,37 @@
+.container{
+    display: flex
+    height: 1800px;
+    width: 1100px;
+    background-color: bisque;
+
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(9, 255, 0);
+    border-style: dashed;
+    border-color: coral;
+    border-radius: 67px;
+    margin: 50px;
+}
+
+.box2{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(42, 165, 138);
+    border-style: dashed;
+    border-color: coral;
+    border-radius: 67px;
+    margin: 50px;
+}
+
+.box3{
+    height: 800px;
+    width: 800px;
+    background-color: crimson;
+    border-style: dashed;
+    border-color: coral;
+    border-radius: 800px;
+    margin: 50px;
+}
